@@ -1,0 +1,80 @@
+[
+  [
+    {
+        "topic": "serbia_info",
+        "lat": 44.80401,
+        "lon": 20.46513,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "serbia_info",
+        "lat": 45.25167,
+        "lon": 19.83694,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "serbia_info",
+        "lat": 43.32472,
+        "lon": 21.90333,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "serbia_info",
+        "lat": 43.89139,
+        "lon": 20.34972,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    }
+  ],
+  [
+    {
+        "topic": "india_info",
+        "lat": 21.146633,
+        "lon": 79.088860,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "india_info",
+        "lat": 28.644800,
+        "lon": 77.216721,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "india_info",
+        "lat": 19.076090,
+        "lon": 72.877426,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "india_info",
+        "lat": 25.612677,
+        "lon": 85.158875,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    }
+  ],
+  [
+    {
+        "topic": "china_info",
+        "lat": 31.224361,
+        "lon": 121.469170,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "china_info",
+        "lat": 39.916668,
+        "lon": 116.383331,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "china_info",
+        "lat": 29.439325,
+        "lon": 106.887703,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    },
+    {
+        "topic": "china_info",
+        "lat": 22.302711,
+        "lon": 114.177216,
+        "key": "d16bbbd9081f4ec59d15743977d554f3"
+    }
+  ]
+]

@@ -1,0 +1,11 @@
+# IDEA file
+.idea
+
+# DB setup
+/db_setup
+
+# Consumer
+/consumer
+
+# Superset dashboard
+/superset_dashboard
