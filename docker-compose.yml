@@ -114,7 +114,7 @@ services:
 
   mongo:
     image: mongo
-    container_name: mongodb
+    container_name: mongo
     ports:
       - "27018:27017"
     restart: on-failure

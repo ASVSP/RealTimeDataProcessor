@@ -14,7 +14,7 @@ def write_to_postgres(df, epoch_id):
     df.write \
         .format('jdbc') \
         .mode('overwrite') \
-        .options(url='jdbc:postgresql://host.docker.internal:5433/postgres',
+        .options(url='jdbc:postgresql://postgres:5432/postgres',
                  driver='org.postgresql.Driver',
                  dbtable='city_air_quality',
                  user='asvsp',

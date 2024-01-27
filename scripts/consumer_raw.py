@@ -13,7 +13,7 @@ spark = SparkSession \
 def write_mongo_row(df, epoch_id):
     df.write.format("mongo") \
         .mode("append") \
-        .option("uri", "mongodb://asvsp:asvsp@host.docker.internal:27018/") \
+        .option("uri", "mongodb://asvsp:asvsp@mongo:27017/") \
         .option("database", "asvsp") \
         .option("collection", "raw_data") \
         .save()

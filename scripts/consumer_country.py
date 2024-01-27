@@ -14,7 +14,7 @@ def write_mold_lvl(df, epoch_id):
     df.write\
         .format('jdbc') \
         .mode('overwrite') \
-        .options(url='jdbc:postgresql://host.docker.internal:5433/postgres',
+        .options(url='jdbc:postgresql://postgres:5432/postgres',
                  driver='org.postgresql.Driver',
                  dbtable='city_mold_lvl',
                  user='asvsp',
@@ -29,7 +29,7 @@ def write_avg_aqi(df, epoch_id):
     df.write\
         .format('jdbc') \
         .mode('overwrite') \
-        .options(url='jdbc:postgresql://host.docker.internal:5433/postgres',
+        .options(url='jdbc:postgresql://postgres:5432/postgres',
                  driver='org.postgresql.Driver',
                  dbtable='country_avg_aqi',
                  user='asvsp',
